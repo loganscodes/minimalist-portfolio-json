@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Osvaldo Franco Fonseca",
-    "label": "Front End Wev Developer con 2 años de experiencia profesional",
+    "label": "Front End Web Developer con 2 años de experiencia profesional",
     "image": "/me.png",
     "email": "",
     "phone": "",
@@ -30,7 +30,7 @@
   "work": [
     {
       "name": "HoneyMustard (En Remoto)",
-      "position": "Front End Web Dev",
+      "position": "Desarrollo web Front End",
       "url": "https://honeymustard.mx/",
       "startDate": "2021-09-01",
       "endDate": null,
@@ -95,6 +95,12 @@
     },
     {
       "name": "GitHub",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Bitbucket",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
@@ -185,6 +191,16 @@
       "description": "development",
       "highlights": [
         "Astro",
+        "Tailwind"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Gamify",
+      "isActive": false,
+      "description": "development",
+      "highlights": [
+        "React",
         "Tailwind"
       ],
       "url": ""
